@@ -1,0 +1,8 @@
+shop_passw.txt
+/env
+pyvenv.cfg
+myshop/db.sqlite3
+myshop/shop/__pycache__
+myshop/shop/migrations
+myshop/media
+myshop/myshop/__pycache__
