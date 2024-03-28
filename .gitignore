@@ -9,3 +9,4 @@ myshop/myshop/__pycache__
 myshop/cart/__pycache__
 myshop/cart/migrations
 myshop/orders/migrations
+myshop/orders/__pycache__
